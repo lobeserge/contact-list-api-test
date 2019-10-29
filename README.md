@@ -18,7 +18,7 @@ To run this project the following softwares are required
 * Clone this project to your local repository
 * Import the project into eclipse as an existing maven project
 * Run the various test cases as found in the test folder
-NB
-Initial data has been inserted using the data.sql
+#### NB
+Initial data has been inserted using the data.sql file
 
 
