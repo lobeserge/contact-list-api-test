@@ -42,7 +42,7 @@ public class ContactServiceTest {
 		  when(contactRespository.findAll()).thenReturn(expectedContacts);
 		  
 		  List<Contact> actualContacts=contactService.getAllContacts();
-		  
+		
 		  assertThat(actualContacts).isEqualTo(expectedContacts);
 		  
 	  }
